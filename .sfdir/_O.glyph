@@ -1,0 +1,21 @@
+StartChar: O
+Encoding: 79 79 0
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 2
+Back
+Fore
+SplineSet
+113 297 m 0
+ 113 32 288 -183 503 -183 c 0
+ 718 -183 893 32 893 297 c 0
+ 893 562 718 777 503 777 c 0
+ 288 777 113 562 113 297 c 0
+0 299 m 0
+ 0 586 224 819 499 819 c 0
+ 774 819 998 586 998 299 c 0
+ 998 12 774 -221 499 -221 c 0
+ 224 -221 0 12 0 299 c 0
+EndSplineSet
+EndChar
